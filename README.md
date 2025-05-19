@@ -21,3 +21,7 @@ The goal was to write and save SQL queries that answer specific questions about 
 - **Top Records:** Used `TOP 1` to find the doctor with the highest patient count.
 
 This project demonstrates foundational SQL techniques for querying, analyzing, and reporting healthcare data.
+
+## Disclaimer
+This project is for viewing purposes only. Unauthorized copying, modification, or distribution of this work is strictly prohibited.
+
